@@ -1,3 +1,5 @@
+// If you find any mistake or have a better solution, feel free to let me know.
+
 /*
 Problem: Counting Roads (AtCoder)
 Link:    https://atcoder.jp/contests/abc061/tasks/abc061_b
