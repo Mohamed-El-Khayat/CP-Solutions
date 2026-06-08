@@ -5,7 +5,7 @@ Problem: Is it a tree (spoj)
 Link:    https://www.spoj.com/problems/PT07Y/
 Topic:   Graph Theory / DFS
 Time:    O(N+E)
-Space:   O(N)
+Space:   O(N+E)
 */
 
 /* اللهم انفعنا بما علمتنا، وعلمنا ما ينفعنا، وزدنا علما. */
